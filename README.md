@@ -13,7 +13,7 @@ Kiến thức nắm được: - Elaticsearch là một công cụ phân tích v�
 Trainee tự tổng kết một số kiến thức học được qua bài tập
 
 Todo
-Sử dụng elasticsearch thay cho các timfkieems bằng truy vấn thông thường
+Sử dụng elasticsearch thay cho các tìm kiếm bằng truy vấn thông thường
 
 Credit
 Elasticsearch,xampp,sublime Text
