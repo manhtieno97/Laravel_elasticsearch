@@ -1,22 +1,40 @@
-Tìm hiểu về ElasticSearch.
+# Bài tập ElasticSearch 
 
-  - Tìm hiểu về các khái niệm cơ bản về elasticsearch, cách elasticsearch hoạt động. Áp dụng vào laravel.
+## Tìm hiểu về ElasticSearch.
 
-Thực hiện bởi :Nguyễn Mạnh Tiến
+ Tìm hiểu về các khái niệm cơ bản về elasticsearch, cách elasticsearch hoạt động. Áp dụng vào laravel.
 
-Liên kết sử dụng: https://viblo.asia/p/elasticsearch-khai-niem-va-cac-cau-truy-van-co-ban-djeZ1VwRlWz#_uu-va-nhuoc-diem-cua-elasticsearch-khi-nao-nen-su-dung-1
+Thực hiện bởi [Nguyễn Mạnh Tiến](https://github.com/manhtieno97)
 
-Kiến thức nắm được: - Elaticsearch là một công cụ phân tích và tìm kiếm.
-                    - Elasticearch tìm kiếm bởi inverted index(đánh index theo keyword).
-                    - Document là đơn vị tìm kiếm và đánh index. Một index có thể bao gồm một hay nhiều Document, và một Document có thể chứa một hay nhiều Fields.
-                    - Mapping là quá trình định nghĩa làm thế nào một document và các fields của nó được lưu trữ và đánh index
-Trainee tự tổng kết một số kiến thức học được qua bài tập
+## Liên kết
 
-Todo
+- Liên kết đề bài :https://www.elastic.co/
+- Liên kết học liệu :https://viblo.asia/p/elasticsearch-khai-niem-va-cac-cau-truy-van-co-ban-djeZ1VwRlWz#_uu-va-nhuoc-diem-cua-elasticsearch-khi-nao-nen-su-dung-1
+
+## Hướng dẫn cài đặt test/sử dụng nếu có
+
+**Cài đặt Elastic **:https://www.elastic.co/downloads/elasticsearch
+**KIểm tra cài đặt**:http://localhost:9200/
+**Cài composer và chạy **: composer require elasticsearch/elasticsearch
+
+## Kiến thức nắm được
+
+ - Elaticsearch là một công cụ phân tích và tìm kiếm.
+
+ - Elasticearch tìm kiếm bởi inverted index(đánh index theo keyword).
+ 
+ - Document là đơn vị tìm kiếm và đánh index. Một index có thể bao gồm một hay nhiều Document, và một Document có thể chứa một hay nhiều Fields.
+
+ - Mapping là quá trình định nghĩa làm thế nào một document và các fields của nó được lưu trữ và đánh index
+
+
+## Todo
+
 Sử dụng elasticsearch thay cho các tìm kiếm bằng truy vấn thông thường
 
-Credit
-Elasticsearch,xampp,sublime Text
+## Credit
+
+
 
 
 
