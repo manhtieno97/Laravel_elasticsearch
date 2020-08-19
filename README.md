@@ -34,7 +34,9 @@ Sử dụng elasticsearch thay cho các tìm kiếm bằng truy vấn thông th�
 
 ## Credit
 
+- https://github.com/manhtieno97/Laravel_elasticsearch
 
+- https://viblo.asia/p/gioi-thieu-package-laravel-generator-Eb85oMRkZ2G
 
 
 
