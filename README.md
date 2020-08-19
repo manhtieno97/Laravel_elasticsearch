@@ -14,7 +14,9 @@ Thực hiện bởi [Nguyễn Mạnh Tiến](https://github.com/manhtieno97)
 ## Hướng dẫn cài đặt test/sử dụng nếu có
 
 **Cài đặt Elastic **:https://www.elastic.co/downloads/elasticsearch
+
 **KIểm tra cài đặt**:http://localhost:9200/
+
 **Cài composer và chạy **: composer require elasticsearch/elasticsearch
 
 ## Kiến thức nắm được
